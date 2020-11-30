@@ -264,3 +264,8 @@ return [
 - 插件入口必须继承 `Gallery\Plugin\Plugin` 类。
 
 - 覆盖父类来定义插件信息。
+
+
+## 插件管理
+
+按照 `GP` 后，可访问 `域名/plugin/index` 查看简易的插件管理界面。
